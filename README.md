@@ -1,7 +1,5 @@
 # SVFC-MARKETPLACE-APP
 
-# SVFC-Marketplace
-
 # A. Introduction
 
 ### The SVFC Marketplace App is a student-focused platform where SVFC students can buy, sell, or exchange used items, including textbooks, electronics, and dorm supplies. The app fosters a sustainable and collaborative marketplace within the SVFC community, offering students a convenient platform for peer-to-peer transactions. The app is strictly for SVFC students and is not open to the public.
